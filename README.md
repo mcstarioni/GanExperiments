@@ -1,4 +1,6 @@
-# This is a project containing Pytorch implementations for GAN's 
-### Gan's are trained on toy datasets
-### There are spectral normalization and gradient penalty options with different loss configurations
-### Also there is code for visualizing gan training
+## This is a project for experiments with GAN's
+* ##### Pytorch implementation
+* ##### Gan's are trained on toy datasets: gaussian grid, gaussian circle, gaussian spiral
+* ##### There are spectral normalization and gradient penalty options with different loss configurations
+* ##### Also there is code for visualizing gan training
+Explore ./src/toygan.py for more details
